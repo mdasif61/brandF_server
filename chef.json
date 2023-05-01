@@ -1,56 +1,74 @@
-[
-    {
-        "id": 1,
-        "chef_name": "Ling Zhang",
-        "years_of_experience": 20,
-        "recipe_name": "Kung Pao Chicken",
-        "likes": 352,
-        "ingredients": ["chicken", "peanuts", "vegetable oil", "soy sauce", "sugar"],
-        "image": "https://cdn.shopify.com/s/files/1/0555/4231/7246/files/about-1_645X.jpg?v=1628774387"
-      },
-      {
-        "id": 2,
-        "chef_name": "Wei Li",
-        "years_of_experience": 15,
-        "recipe_name": "Mapo Tofu",
-        "likes": 218,
-        "ingredients": ["tofu", "ground pork", "garlic", "soy sauce", "chili bean sauce"],
-        "image": "https://media.istockphoto.com/id/1175212404/photo/asian-chef-with-dish-at-the-restaurant.jpg?s=612x612&w=0&k=20&c=i1qhN28OljnAvkgvw3unYg0pJyrOfJsif-zF5IB3tBo="
-      },
-      {
-        "id": 3,
-        "chef_name": "Jian Chen",
-        "years_of_experience": 12,
-        "recipe_name": "Hot and Sour Soup",
-        "likes": 187,
-        "ingredients": ["bamboo shoots", "tofu", "wood ear mushrooms", "soy sauce", "rice vinegar"],
-        "image": "https://media.istockphoto.com/id/598254944/photo/chef-holding-prepared-meal.jpg?s=612x612&w=0&k=20&c=cREKGI73W29l6NgYmskWmvozqnP-A9IO-YuGktArsiA="
-      },
-      {
-        "id": 4,
-        "chef_name": "Mei Chen",
-        "years_of_experience": 8,
-        "recipe_name": "General Tso's Chicken",
-        "likes": 421,
-        "ingredients": ["chicken", "cornstarch", "soy sauce", "rice vinegar", "sugar"],
-        "image": "https://images.squarespace-cdn.com/content/v1/51797ccae4b0daa5f5156a50/1429195730493-F3224JDLWJRG83P93AEA/image-asset.jpeg"
-      },
-      {
-        "id": 5,
-        "chef_name": "Chen Liu",
-        "years_of_experience": 10,
-        "recipe_name": "Szechuan Shrimp",
-        "likes": 291,
-        "ingredients": ["shrimp", "Szechuan peppercorns", "garlic", "soy sauce", "sugar"],
-        "image": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2a1f8aca-1fde-11e9-bf10-a69b3e42a388.jpg?crop=2250%2C1500%2C0%2C0"
-      },
-      {
-        "id": 6,
-        "chef_name": "Hui Zhang",
-        "years_of_experience": 20,
-        "recipe_name": "Mongolian Beef",
-        "likes": 312,
-        "ingredients": ["beef sirloin", "green onions", "soy sauce", "hoisin sauce", "brown sugar", "garlic"],
-        "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/1B23/production/_93074960_dsc_0664.jpg"
-      }      
+[ 
+  {
+    "id": 1,
+    "chef_name": "Ling Zhang",
+    "years_of_experience": 20,
+    "recipe_name": ["Kung Pao Chicken", "Moo Shu Pork", "Egg Foo Young"],
+    "likes": 352,
+    "ingredients": ["chicken", "peanuts", "vegetable oil", "soy sauce", "sugar"],
+    "cooking_method": "Stir-Fry",
+    "rating": 4.5,
+    "number_of_recipes": 50,
+    "image": "https://cdn.shopify.com/s/files/1/0555/4231/7246/files/about-1_645X.jpg?v=1628774387"
+  },
+  {
+    "id": 2,
+    "chef_name": "Wei Li",
+    "years_of_experience": 15,
+    "recipe_name": ["Mapo Tofu", "Chongqing Spicy Chicken", "Dan Dan Noodles"],
+    "likes": 218,
+    "ingredients": ["tofu", "ground pork", "garlic", "soy sauce", "chili bean sauce"],
+    "cooking_method": "Boiling",
+    "rating": 4.2,
+    "number_of_recipes": 35,
+    "image": "https://media.istockphoto.com/id/1175212404/photo/asian-chef-with-dish-at-the-restaurant.jpg?s=612x612&w=0&k=20&c=i1qhN28OljnAvkgvw3unYg0pJyrOfJsif-zF5IB3tBo="
+  },
+  {
+    "id": 3,
+    "chef_name": "Jian Chen",
+    "years_of_experience": 12,
+    "recipe_name": ["Hot and Sour Soup", "Szechuan Beef", "Shrimp Fried Rice"],
+    "likes": 187,
+    "ingredients": ["bamboo shoots", "tofu", "wood ear mushrooms", "soy sauce", "rice vinegar"],
+    "cooking_method": "Simmering",
+    "rating": 4.1,
+    "number_of_recipes": 45,
+    "image": "https://media.istockphoto.com/id/598254944/photo/chef-holding-prepared-meal.jpg?s=612x612&w=0&k=20&c=cREKGI73W29l6NgYmskWmvozqnP-A9IO-YuGktArsiA="
+  },
+  {
+    "id": 4,
+    "chef_name": "Mei Chen",
+    "years_of_experience": 8,
+    "recipe_name": ["General Tso's Chicken", "Ma Po Eggplant", "Wonton Soup"],
+    "likes": 421,
+    "ingredients": ["chicken", "cornstarch", "soy sauce", "rice vinegar", "sugar"],
+    "cooking_method": "Deep-Frying",
+    "rating": 4.3,
+    "number_of_recipes": 55,
+    "image": "https://images.squarespace-cdn.com/content/v1/51797ccae4b0daa5f5156a50/1429195730493-F3224JDLWJRG83P93AEA/image-asset.jpeg"
+  },
+  {
+    "id": 5,
+    "chef_name": "Chen Liu",
+    "years_of_experience": 10,
+    "recipe_name": ["Szechuan Shrimp", "Hunan Beef", "Scallion Pancakes"],
+    "likes": 291,
+    "ingredients": ["shrimp", "Szechuan peppercorns", "garlic", "soy sauce", "sugar"],
+    "cooking_method": "Stir-Fry",
+    "rating": 4.4,
+    "number_of_recipes": 40,
+    "image": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2a1f8aca-1fde-11e9-bf10-a69b3e42a388.jpg?crop=2250%2C1500%2C0%2C0"
+  },
+  {
+    "id": 6,
+    "chef_name": "Xin Zhao",
+    "years_of_experience": 18,
+    "recipe_name": ["Beijing Duck", "Spicy Crispy Beef", "Shrimp and Broccoli Stir Fry"],
+    "likes": 398,
+    "ingredients": ["Flank steak", "Cornstarch", "Sichuan peppercorns", "Dried chili peppers", "Soy sauce"],
+    "cooking_method": "Deep-Frying",
+    "rating": 4.5,
+    "number_of_recipes": 36,
+    "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/1B23/production/_93074960_dsc_0664.jpg"
+    }  
 ]
