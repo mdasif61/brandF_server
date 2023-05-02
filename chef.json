@@ -9,7 +9,8 @@
     "cooking_method": "Stir-Fry",
     "rating": 4.5,
     "number_of_recipes": 50,
-    "image": "https://cdn.shopify.com/s/files/1/0555/4231/7246/files/about-1_645X.jpg?v=1628774387"
+    "image": "https://i.ibb.co/Pr1ttGw/New-Project.jpg",
+    "bio":"Ling Zhang is a Chinese-American chef and TV personality who specializes in Chinese cuisine. He is best known for his cooking show, Yan Can Cook, which has aired in over 50 countries."
   },
   {
     "id": 2,
@@ -21,7 +22,8 @@
     "cooking_method": "Boiling",
     "rating": 4.2,
     "number_of_recipes": 35,
-    "image": "https://media.istockphoto.com/id/1175212404/photo/asian-chef-with-dish-at-the-restaurant.jpg?s=612x612&w=0&k=20&c=i1qhN28OljnAvkgvw3unYg0pJyrOfJsif-zF5IB3tBo="
+    "image": "https://i.ibb.co/Y8T5Drn/chefTwo.jpg",
+    "bio":"Wei Li is a Chinese-born chef and author who has written several popular cookbooks on Chinese cuisine. He is known for his expertise in wok cooking and has appeared on many cooking shows."
   },
   {
     "id": 3,
@@ -33,7 +35,8 @@
     "cooking_method": "Simmering",
     "rating": 4.1,
     "number_of_recipes": 45,
-    "image": "https://media.istockphoto.com/id/598254944/photo/chef-holding-prepared-meal.jpg?s=612x612&w=0&k=20&c=cREKGI73W29l6NgYmskWmvozqnP-A9IO-YuGktArsiA="
+    "image": "https://i.ibb.co/NF3ZHGr/chef-Three.jpg",
+    "bio":"Jian Chen is a Hong Kong-born chef who has opened several successful restaurants in North America. He is known for his fusion cuisine, which combines Chinese and Western cooking techniques."
   },
   {
     "id": 4,
@@ -45,7 +48,8 @@
     "cooking_method": "Deep-Frying",
     "rating": 4.3,
     "number_of_recipes": 55,
-    "image": "https://images.squarespace-cdn.com/content/v1/51797ccae4b0daa5f5156a50/1429195730493-F3224JDLWJRG83P93AEA/image-asset.jpeg"
+    "image": "https://i.ibb.co/Y2KsV0H/chefFour.jpg",
+    "bio":"Mei Chen is a Taiwanese-born chef who is based in the UK. She is known for her TV show, Chinese Food Made Easy, which aims to make Chinese cooking accessible to a Western audience."
   },
   {
     "id": 5,
@@ -57,7 +61,8 @@
     "cooking_method": "Stir-Fry",
     "rating": 4.4,
     "number_of_recipes": 40,
-    "image": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2a1f8aca-1fde-11e9-bf10-a69b3e42a388.jpg?crop=2250%2C1500%2C0%2C0"
+    "image": "https://i.ibb.co/M8hL0L7/chefFive.jpg",
+    "bio":"Chen Liu is a Chinese-born chef who has worked in several high-end restaurants in Asia. He is known for his innovative take on traditional Chinese cuisine, and has won several awards for his cooking."
   },
   {
     "id": 6,
@@ -69,6 +74,7 @@
     "cooking_method": "Deep-Frying",
     "rating": 4.5,
     "number_of_recipes": 36,
-    "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/1B23/production/_93074960_dsc_0664.jpg"
+    "image": "https://i.ibb.co/7nX96XB/chefSix.jpg",
+    "bio":"Xin Zhao is a Chinese-born chef who is known for his use of traditional cooking techniques and ingredients. He is the owner of the Michelin-starred restaurant Yu's Family Kitchen, which serves classic Chinese dishes with a modern twist."
     }  
 ]

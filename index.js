@@ -13,6 +13,11 @@ app.get('/',(req,res)=>{
 app.get('/chef',(req,res)=>{
     res.send(chef)
 })
+app.get('/chef/:id',(req,res)=>{
+    const id=req.params.id;
+    const chooseChef=chef.find(c=>c.id==id);
+    res.send(chooseChef)
+})
 
 app.listen(port,()=>{
     console.log(`Assignment 10 server running port ${port}`)
